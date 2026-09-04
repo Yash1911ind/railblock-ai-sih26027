@@ -1,0 +1,7 @@
+asset_id,asset_name,asset_type,section_id,condition_score,last_maintenance_days
+A-101,Up Main Track Km 12-18,Track,SEC-A,62,41
+A-102,Point Machine P-17,Signalling,SEC-A,58,67
+A-201,OHE Mast Group 44-61,Electrical,SEC-B,71,34
+A-202,Down Main Track Km 28-35,Track,SEC-B,55,52
+A-301,Bridge Span B-09,Bridge,SEC-C,49,88
+A-302,Axle Counter Zone C3,Signalling,SEC-C,66,45

@@ -1,0 +1,7 @@
+request_id,asset_id,work_type,section_id,department,duration_min,priority,earliest_start,latest_end,crew_id
+MR-001,A-301,Bridge inspection,SEC-C,Engineering,120,5,60,420,CREW-E1
+MR-002,A-101,Ultrasonic rail testing,SEC-A,Engineering,90,5,60,420,CREW-E1
+MR-003,A-102,Point machine overhaul,SEC-A,S&T,75,4,180,540,CREW-S1
+MR-004,A-201,OHE preventive maintenance,SEC-B,Electrical,105,4,60,480,CREW-O1
+MR-005,A-202,Deep screening,SEC-B,Engineering,150,3,240,720,CREW-E1
+MR-006,A-302,Axle counter calibration,SEC-C,S&T,60,3,240,660,CREW-S1

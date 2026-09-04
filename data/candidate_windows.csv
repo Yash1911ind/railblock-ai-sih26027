@@ -1,0 +1,7 @@
+window_id,section_id,start_min,end_min,line_capacity
+W-A1,SEC-A,60,360,1
+W-A2,SEC-A,450,660,1
+W-B1,SEC-B,60,420,1
+W-B2,SEC-B,540,780,1
+W-C1,SEC-C,60,450,1
+W-C2,SEC-C,570,720,1

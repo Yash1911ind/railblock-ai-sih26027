@@ -1,0 +1,4 @@
+crew_id,department,skill,available_start,available_end
+CREW-E1,Engineering,Track and structures,0,720
+CREW-S1,S&T,Signalling systems,120,720
+CREW-O1,Electrical,OHE isolation and maintenance,0,600

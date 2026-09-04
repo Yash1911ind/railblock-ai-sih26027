@@ -1,0 +1,10 @@
+train_id,train_name,section_id,start_min,end_min,importance,can_delay
+TR-101,Rajdhani Demo,SEC-A,75,120,5,False
+TR-102,Freight Path A,SEC-A,225,270,2,True
+TR-103,Intercity Demo,SEC-A,390,435,4,False
+TR-201,Express Demo,SEC-B,90,145,5,False
+TR-202,Freight Path B,SEC-B,285,345,2,True
+TR-203,MEMU Demo,SEC-B,465,510,3,False
+TR-301,Passenger Demo,SEC-C,105,165,4,False
+TR-302,Freight Path C,SEC-C,300,360,2,True
+TR-303,Express Demo C,SEC-C,510,555,5,False
