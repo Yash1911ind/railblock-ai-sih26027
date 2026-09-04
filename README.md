@@ -231,12 +231,24 @@ Detailed assumptions, formulation, integration considerations and SIH judge-prep
 
 ## ⚠️ Prototype Disclaimer
 
-This repository is an **SIH proof-of-concept prototype**.
+This repository is an **SIH proof-of-concept prototype**. It does **not** claim:
 
-- All train, asset, maintenance, time and result data are **simulated demonstration data**.
-- The system does **not** represent official Indian Railways operational data.
-- It does **not replace railway authorization, operating rules, safety procedures or human decision-making**.
-- Real-world TMS/SMMS/TDMS integration would require appropriate authorization, interfaces, security controls and domain validation.
+- Real Indian Railways operational data — every train, asset, maintenance, time and
+  result value is **synthetic demonstration data**.
+- Live railway APIs or connectivity — there is no external system integration of any
+  kind; System Status in the app reflects only this process's own module initialization.
+- Real sensor or IoT integration — asset condition values are illustrative CSV columns,
+  not measured field readings.
+- Autonomous control of any railway system — every AI/coordination suggestion requires
+  explicit controller Approve/Modify/Reject action, and no button in this app sends a
+  command to real railway infrastructure.
+- Trained ML predictions — the risk engine is a transparent, rule-based formula, not a
+  fitted model.
+- Production readiness, safety certification, or measured real-world impact.
+
+Real-world TMS/SMMS/TDMS/Kavach integration would require appropriate authorization,
+interfaces, security controls and domain validation — none of which is implemented or
+simulated here.
 
 ---
 
